@@ -31,7 +31,7 @@ Guided by her loyal companion Lailaps, Yohane discovers that a powerful Siren is
 To get started with the game, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/2ru17/2ru-Yohane-Game
+git clone https://github.com/2ru17/2ru-Yohane-Game.git
 cd 2ru-Yohane-Game
 ```
 
