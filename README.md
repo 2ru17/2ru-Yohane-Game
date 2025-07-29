@@ -89,7 +89,7 @@ This is a standard C project and can be compiled with `gcc`.
 gcc -Wall -std=c99 -Iinclude src/*.c -o YohaneGame
 ```
 
-**Alternative (for development):**
+**Alternative (for Windows):**
 ```bash
 gcc -Wall -std=c99 -Iinclude src/*.c -o YohaneGame.exe
 ```
