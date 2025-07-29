@@ -1,0 +1,52 @@
+=== DUNGEON FILE VERIFICATION ===
+
+Testing yasudaya_ryokan:
+  [OK] Floor 1: assets/dungeon-env/dungeons_yasudaya_ryokan_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_yasudaya_ryokan_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_yasudaya_ryokan_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_yasudaya_ryokan_floor4.txt
+
+Testing numazu_deep_sea_aquarium:
+  [OK] Floor 1: assets/dungeon-env/dungeons_numazu_deep_sea_aquarium_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_numazu_deep_sea_aquarium_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_numazu_deep_sea_aquarium_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_numazu_deep_sea_aquarium_floor4.txt
+
+Testing izu_mito_sea_paradise:
+  [OK] Floor 1: assets/dungeon-env/dungeons_izu_mito_sea_paradise_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_izu_mito_sea_paradise_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_izu_mito_sea_paradise_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_izu_mito_sea_paradise_floor4.txt
+
+Testing shougetsu_confectionary:
+  [OK] Floor 1: assets/dungeon-env/dungeons_shougetsu_confectionary_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_shougetsu_confectionary_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_shougetsu_confectionary_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_shougetsu_confectionary_floor4.txt
+
+Testing nagahama_castle_ruins:
+  [OK] Floor 1: assets/dungeon-env/dungeons_nagahama_castle_ruins_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_nagahama_castle_ruins_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_nagahama_castle_ruins_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_nagahama_castle_ruins_floor4.txt
+
+Testing numazugoyotei:
+  [OK] Floor 1: assets/dungeon-env/dungeons_numazugoyotei_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_numazugoyotei_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_numazugoyotei_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_numazugoyotei_floor4.txt
+
+Testing uchiura_bay_pier:
+  [OK] Floor 1: assets/dungeon-env/dungeons_uchiura_bay_pier_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_uchiura_bay_pier_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_uchiura_bay_pier_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_uchiura_bay_pier_floor4.txt
+
+Testing awashima_marine_park:
+  [OK] Floor 1: assets/dungeon-env/dungeons_awashima_marine_park_floor1.txt
+  [OK] Floor 2: assets/dungeon-env/dungeons_awashima_marine_park_floor2.txt
+  [OK] Floor 3: assets/dungeon-env/dungeons_awashima_marine_park_floor3.txt
+  [OK] Floor 4: assets/dungeon-env/dungeons_awashima_marine_park_floor4.txt
+
+Testing special dungeons:
+  [OK] Final Battle: assets/dungeon-env/dungeons_final_battle.txt
