@@ -38,42 +38,6 @@ cd 2ru-Yohane-Game
 
 ---
 
-## Game Startup and Menu System
-
-When you first launch the game, you'll be presented with a startup menu with several options:
-
-```
-╔═══════════════════════════════════════════════════════╗
-║              YOHANE THE PARHELION                     ║
-║            The Siren in the Mirror World              ║
-╚═══════════════════════════════════════════════════════╝
-
-Welcome to the Mirror World, Little Demon!
-
-┌─────────────── MAIN MENU ─────────────────────┐
-│                                               │
-│  [L] Load Game                                │
-│  [N] New Game                                 │
-│  [M] Manage Save Files                        │
-│  [Q] Quit                                     │
-│                                               │
-└───────────────────────────────────────────────┘
-```
-
-### Menu Options:
-- **[L] Load Game**: Load a previously saved game from one of 3 save slots
-- **[N] New Game**: Start fresh with a new playthrough
-- **[M] Manage Save Files**: View and delete existing save files across 3 slots
-- **[Q] Quit**: Exit the game
-
-### In-Game Menu
-Once you start or load a game, you'll access the in-game menu with different options:
-- **[C] Continue** (if a playthrough is active) or **[N] New Game** (if no active playthrough)
-- **[V] View Achievements**: Browse through all 28 unlockable achievements
-- **[Q] Quit**: Return to startup menu
-
----
-
 ## Game Compiling and Running
 
 This is a standard C project and can be compiled with `gcc`.
@@ -110,6 +74,42 @@ YohaneGame.exe
 - If you encounter "command not found" errors, ensure your compiler is properly installed
 - For Windows users, you may need to add gcc to your PATH environment variable
 - Make sure all game files (including .txt dungeon files) are in the correct directory
+
+---
+
+## Game Startup and Menu System
+
+When you first launch the game, you'll be presented with a startup menu with several options:
+
+```
+╔═══════════════════════════════════════════════════════╗
+║              YOHANE THE PARHELION                     ║
+║            The Siren in the Mirror World              ║
+╚═══════════════════════════════════════════════════════╝
+
+Welcome to the Mirror World, Little Demon!
+
+┌─────────────── MAIN MENU ─────────────────────┐
+│                                               │
+│  [L] Load Game                                │
+│  [N] New Game                                 │
+│  [M] Manage Save Files                        │
+│  [Q] Quit                                     │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+### Menu Options:
+- **[L] Load Game**: Load a previously saved game from one of 3 save slots
+- **[N] New Game**: Start fresh with a new playthrough
+- **[M] Manage Save Files**: View and delete existing save files across 3 slots
+- **[Q] Quit**: Exit the game
+
+### In-Game Menu
+Once you start or load a game, you'll access the in-game menu with different options:
+- **[C] Continue** (if a playthrough is active) or **[N] New Game** (if no active playthrough)
+- **[V] View Achievements**: Browse through all 28 unlockable achievements
+- **[Q] Quit**: Return to startup menu
 
 ---
 
